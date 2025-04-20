@@ -19,7 +19,7 @@ Desarrollar una aplicación que permita a los usuarios registrar y monitorear h�
 | **Fase 2** | Análisis del sistema, actores, funcionalidades, requisitos |
 | **Fase 3** | Arquitectura adoptada (MVC) y su justificación |
 
-📄 Ver documento completo 👉 [`docs/PROYECTO_HABITOS_EQUIPO_4.pdf`](docs/PROYECTO_HABITOS_EQUIPO_4.pdf)
+Ver documento completo 👉 [`docs/PROYECTO_HABITOS_EQUIPO_4.pdf`](docs/PROYECTO_HABITOS_EQUIPO_4.pdf)
 
 ---
 
@@ -32,7 +32,7 @@ Desarrollar una aplicación que permita a los usuarios registrar y monitorear h�
 
 ---
 
-## 🛠Herramientas y Tecnologías
+## Herramientas y Tecnologías
 
 - Git + GitHub (Git Flow)
 - VS Code
