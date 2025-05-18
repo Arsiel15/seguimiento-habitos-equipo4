@@ -13,6 +13,6 @@ Se ha incorporado contenido adicional al repositorio como parte del avance del p
 ## Archivos disponibles
 
 - `PROYECTO_HABITOS_EQUIPO_4.pdf`: Contiene las Fases 1 a 3 presentadas en la primera entrega (Primer Parcial).
-- `Grupo 1_Proyecto Segundo Parcial.pdf`: Documento integral actualizado que incluye todas las fases del proyecto (de la 1 a la 5), con mejoras estéticas y contenido complementario.
+- `Grupo 4_Proyecto Segundo Parcial.pdf`: Documento integral actualizado que incluye todas las fases del proyecto (de la 1 a la 5), con mejoras estéticas y contenido complementario.
 
 Se recomienda revisar el documento completo (`Grupo 1_Proyecto Segundo Parcial.pdf`) para obtener una visión general consolidada del trabajo realizado.
