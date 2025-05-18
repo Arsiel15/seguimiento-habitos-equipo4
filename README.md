@@ -1,23 +1,4 @@
-# seguimiento-habitos-equipo4
-
-Aplicación para el registro y seguimiento de hábitos saludables como hidratación, sueño y actividad física. Desarrollada como parte del proyecto académico del equipo 4 para la materia de Diseño de Software.
-
-### Estructura del proyecto
-seguimiento-habitos-equipo4/
-│
-├── app/                             # Código fuente de la aplicación
-│   ├── main.py                      # Código principal con interfaz Tkinter
-│   └── data.json                    # Archivo donde se guarda el historial
-│
-├── docs/                            # Documentación y rúbricas
-│   ├── rubrica_coevaluacion/        # Carpeta con el puntaje de evaluación en el equipo
-│   └── Soluciones_y_Evidencias/     # Carpeta con el video introductorio y evidencias de reuniones
-│
-├── dist/                            # Carpeta de distribución
-│   └── interfaz.exe                 # Ejecutable generado con PyInstaller
-│
-├── README.md                        # Archivo de documentación principal
-└── requirements.txt                 # Lista de dependencias del proyecto
+<pre> ```plaintext seguimiento-habitos-equipo4/ │ ├── app/ # Código fuente de la aplicación │ ├── main.py # Código principal con interfaz Tkinter │ └── data.json # Archivo donde se guarda el historial │ ├── docs/ # Documentación y rúbricas │ ├── rubricas_coevaluación/ # Carpeta con el puntaje de evaluación en el equipo │ └── Soluciones_y_Evidencias/ # Carpeta con el video introductorio y evidencias de reuniones │ ├── dist/ # Carpeta de distribución │ └── interfaz.exe # Ejecutable generado con PyInstaller │ ├── README.md # Archivo de documentación principal └── requirements.txt # Lista de dependencias del proyecto ``` </pre>
 
 ## ¿Qué hace esta app?
 
